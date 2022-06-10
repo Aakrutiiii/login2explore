@@ -1,7 +1,7 @@
 # login2explore
 TITLE: WEB FORM using JsonPowerDB 
 This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB.
-This is Web development Project developed using HTML,CSS,Javascript, JsonPowerDB
+This is Web development Project developed using HTML,CSS,Javascript, JsonPowerDB.
 HTML is the standard markup language for Web pages.
 CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.
 JavaScript is the Programming Language for the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data.
